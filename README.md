@@ -61,6 +61,16 @@ To strengthen Java programming fundamentals by developing real-world console app
 
 ---
 
+## 🧾 Letter of Recommendation (LOR)
+
+I was honored to receive a **Letter of Recommendation** from CodeAlpha upon successfully completing this internship. It highlights my dedication, coding discipline, and ability to work independently on Java projects.
+
+📄 [Click here to view the LOR (PDF)](https://github.com/Bijayakumar2005/CodeAlpha_Internship_JAVA_Projects/blob/main/Bijaya%20Kumar%20Rout%20Cartificate.pdf)
+
+*(Note: Certificate and LOR are merged in the same file.)*
+
+---
+
 ## 📬 Contact
 
 - 📧 Email: bijayakumarrout2005@gmail.com  
